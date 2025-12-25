@@ -2,3 +2,4 @@ target
 jbmstable-parser.iml
 .idea
 out/production/jbmstable-parser/bms/table
+.DS_Store
