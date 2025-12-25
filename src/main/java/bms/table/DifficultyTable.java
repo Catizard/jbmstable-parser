@@ -2,7 +2,6 @@ package bms.table;
 
 import java.io.Serializable;
 import java.util.*;
-import java.util.logging.Logger;
 
 /**
  * 難易度表
