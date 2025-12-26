@@ -1,4 +1,4 @@
-package bms.table;
+package io.github.catizard.jbmstable_parser.bms.table;
 
 import java.io.Serializable;
 import java.util.*;

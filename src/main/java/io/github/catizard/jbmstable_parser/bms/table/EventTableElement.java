@@ -1,4 +1,4 @@
-package bms.table;
+package io.github.catizard.jbmstable_parser.bms.table;
 
 public class EventTableElement extends BMSTableElement {
 	// TODO 楽曲入手状況のみが重要。スコアは不要かも

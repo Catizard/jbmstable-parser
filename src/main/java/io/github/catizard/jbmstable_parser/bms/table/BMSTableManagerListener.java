@@ -1,4 +1,4 @@
-package bms.table;
+package io.github.catizard.jbmstable_parser.bms.table;
 
 /**
  * BMSTableManagerの変更通知を受けるためのリスナーインターフェイス

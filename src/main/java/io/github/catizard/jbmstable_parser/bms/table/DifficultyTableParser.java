@@ -1,4 +1,4 @@
-package bms.table;
+package io.github.catizard.jbmstable_parser.bms.table;
 
 import java.io.*;
 import java.net.*;
@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
-import bms.table.Course.Trophy;
+import io.github.catizard.jbmstable_parser.bms.table.Course.Trophy;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 
